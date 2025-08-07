@@ -184,9 +184,6 @@ The library returns empty strings intentionally when no status message is needed
 - SPIFFS file system support
 - Sufficient flash memory for pattern storage
 
-## License
-
-This library is provided as-is for educational and development purposes.
 
 ## Version History
 
