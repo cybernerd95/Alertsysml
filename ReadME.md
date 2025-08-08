@@ -5,7 +5,7 @@ A smart Arduino library for ESP32 that provides intelligent alert system capabil
 
 ## Overview
 
-The AlertSysML library monitors sensor values (primarily temperature) and learns normal patterns over time. It can distinguish between normal readings, learned acceptable patterns, and truly abnormal values that require alerts. The library uses SPIFFS for persistent storage of learned patterns.
+The AlertSysML library monitors sensor values (primarily temperature) and learns normal patterns over time. It can distinguish between normal readings, learned acceptable patterns, and truly abnormal values that require alerts. The library uses SPIFFS for persistent storage of learned patterns. It was created by me during my tenure as an intern as Spovum.
 
 ## Features
 
